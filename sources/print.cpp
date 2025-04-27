@@ -9,3 +9,4 @@ void print(const std::string& text, std::ofstream& out)
 {
   out << text;
 }
+// Added comment
